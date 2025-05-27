@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		sByAk25C7jaICeyvERH5dzz5uRQ=
+		6p5APcJhKzmeTcrbRlkCygrf+C4=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		d34T518/RYBSdb5nUTMc56YtCAc=
+		hQDm+K7RmBxaiabn6FFhwQo9qZ4=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		d34T518/RYBSdb5nUTMc56YtCAc=
+		hQDm+K7RmBxaiabn6FFhwQo9qZ4=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1kMSbmXmJdvoJp57+1VjIBo4378=
+		1rLLyEcLFJk6hEDBw94oXauIcHw=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		sByAk25C7jaICeyvERH5dzz5uRQ=
+		6p5APcJhKzmeTcrbRlkCygrf+C4=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		H1Uxrlk0T2Yn1WdGS6cPm2M/uws=
+		nVQE8FQ/iTDog9Veu//YGTRV7ME=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		H1Uxrlk0T2Yn1WdGS6cPm2M/uws=
+		nVQE8FQ/iTDog9Veu//YGTRV7ME=
 		</data>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UjPnddDw2UFflzhaFRv1F+i8JXs=
+		+cgJ1ovrrhfIX/h4cPPntiaFlfE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,14 +55,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g15e1QRAhDvUQoHLAiJe37kgltHPPQIvxAZuqzB/CXU=
+			lDCfiJ3QaIahMMtPuGp3N4OGdZt+o5gorJMKTU3QHz0=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HubkKwWXCbNJpKdmFYE8w47fuUHUdbrYiy/XqGHt5g8=
+			YnRCzbNgYu8gEox0jkGI3Pck9qQv5Sm91OvZiis/XYc=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -76,28 +76,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HubkKwWXCbNJpKdmFYE8w47fuUHUdbrYiy/XqGHt5g8=
+			YnRCzbNgYu8gEox0jkGI3Pck9qQv5Sm91OvZiis/XYc=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KSIcQXYWkjgTzvJZQG0vOyIJWP6Z5w35yEloL2gJt2g=
+			B6jpJi8sOHVvpUDjxE4D+7bJBPH3/ljkBhekVDAkynI=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g15e1QRAhDvUQoHLAiJe37kgltHPPQIvxAZuqzB/CXU=
+			lDCfiJ3QaIahMMtPuGp3N4OGdZt+o5gorJMKTU3QHz0=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HOZGgpOVcSnOex0Fa6G5BZalsNHtcw9X0nchBb9m9Gw=
+			uiTCkZxGEcIx+0ojkRhHWMdQu5Q3DwOBLcrmWNzOu28=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HOZGgpOVcSnOex0Fa6G5BZalsNHtcw9X0nchBb9m9Gw=
+			uiTCkZxGEcIx+0ojkRhHWMdQu5Q3DwOBLcrmWNzOu28=
 			</data>
 		</dict>
 		<key>Modules/SecuredCallsVideoSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FBH7/Qb+ti3mwV5E8/u/38coZ3cZAlnoAmkakrS1g/I=
+			7vKTdDh3d0MthktTKSFIs2jz3v/xnyfpBPrQnvCn228=
 			</data>
 		</dict>
 	</dict>
